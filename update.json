@@ -1,6 +1,6 @@
 {
-  "version": "152",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/152/SurucuTespit.exe",
-  "sha256": "2C19AF7E02BA920B02BFD01E00E5A79D0D5A132EEDABC3B0D064E887B1D90E29",
-  "notes": "Güncelleme adresi programa gömüldü."
+  "version": "153",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/153/SurucuTespit.exe",
+  "sha256": "FA1FFA21AD14946F4C4EE2877D3BC2D5A3817694DC2599D752C6899622B156C9",
+  "notes": "Açılışta otomatik güncelleme; müşteri link girmez."
 }
