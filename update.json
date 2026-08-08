@@ -1,6 +1,6 @@
 {
-  "version": "170",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/170/SurucuTespit.exe",
-  "sha256": "aeda14417a60a0c2d70be662fa1741fffb4675bce893ba44970380173aac6e5c",
-  "notes": "Windows Update sadece surucu + en yeni kaynak secimi + arka plan tarama"
+  "version": "173",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/173/SurucuTespit.exe",
+  "sha256": "346476b00ebaff40e46e9db68a86357746356b682b78b6e973f74352dd87f69d",
+  "notes": "v173: inceleme duzeltmeleri, surucu yedegi, paket iptal/disk, dogrula.ps1"
 }
