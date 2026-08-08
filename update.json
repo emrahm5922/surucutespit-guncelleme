@@ -1,6 +1,6 @@
 {
-  "version": "156",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/156/SurucuTespit.exe",
-  "sha256": "8B807820CB5E9A7694DE880E3EAA3E5CB9E30352518276F5C95DA70F367532A9",
-  "notes": "• Güncellemenin gerçekten kurulması düzeltildi\n• Açılışta otomatik bildirim\n• Toplu kurulum kuyruğu"
+  "version": "157",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/157/SurucuTespit.exe",
+  "sha256": "D93ECD239AA163975F4CA5CA1F42A240E8384B2A2B3A930A0EA2EE5561ED6D2D",
+  "notes": "Guncelleme kurulum duzeltmesi — otomatik yeniden acilis"
 }
