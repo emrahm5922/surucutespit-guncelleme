@@ -1,6 +1,6 @@
 {
-  "version": "160",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/160/SurucuTespit.exe",
-  "sha256": "1EB57AF381650422DCA82E6EFB28CC159CCFED4C51AFC1B3C8E6D0EA64FFFF70",
-  "notes": "Guncelleme geri alma hatasi duzeltildi"
+  "version": "161",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/161/SurucuTespit.exe",
+  "sha256": "A5E1AA65557FF030D478732F09B3353D8B766DDBB53996848F57E8DE749B8E8F",
+  "notes": "Otomatik yeniden acilis duzeltmesi"
 }
