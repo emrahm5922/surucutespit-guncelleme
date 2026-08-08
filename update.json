@@ -1,6 +1,6 @@
 {
-  "version": "157",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/157/SurucuTespit.exe",
-  "sha256": "D93ECD239AA163975F4CA5CA1F42A240E8384B2A2B3A930A0EA2EE5561ED6D2D",
-  "notes": "Guncelleme kurulum duzeltmesi — otomatik yeniden acilis"
+  "version": "158",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/158/SurucuTespit.exe",
+  "sha256": "FF849B46C7D748D3403E1DF84A2FC9A1308FE004223F39AEB46B60E54E7DFEB1",
+  "notes": "python312.dll guncelleme hatasi duzeltmesi"
 }
