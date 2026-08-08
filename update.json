@@ -1,6 +1,6 @@
 {
-  "version": "159",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/159/SurucuTespit.exe",
-  "sha256": "6E36F160B4A98B09310CAE8A0D53F6C04D2F5D3351FD2AC8BCDD0ADA698120B5",
-  "notes": "Guncelleme sonrasi Defender bekleme — otomatik yeniden acilis"
+  "version": "160",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/160/SurucuTespit.exe",
+  "sha256": "1EB57AF381650422DCA82E6EFB28CC159CCFED4C51AFC1B3C8E6D0EA64FFFF70",
+  "notes": "Guncelleme geri alma hatasi duzeltildi"
 }
