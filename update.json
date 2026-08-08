@@ -1,6 +1,6 @@
 {
-  "version": "151",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/151/SurucuTespit.exe",
-  "sha256": "F92A2532209D327E0D0D57243D7C7BB0B0111F0BDB16BA3985995232AECAD1FF",
-  "notes": "Toplu kurulum kuyruğu, otomatik güncelleme denetimi ve GPU sürücü iyileştirmeleri."
+  "version": "152",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/152/SurucuTespit.exe",
+  "sha256": "2C19AF7E02BA920B02BFD01E00E5A79D0D5A132EEDABC3B0D064E887B1D90E29",
+  "notes": "Güncelleme adresi programa gömüldü."
 }
