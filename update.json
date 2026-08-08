@@ -1,6 +1,6 @@
 {
-  "version": "158",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/158/SurucuTespit.exe",
-  "sha256": "FF849B46C7D748D3403E1DF84A2FC9A1308FE004223F39AEB46B60E54E7DFEB1",
-  "notes": "python312.dll guncelleme hatasi duzeltmesi"
+  "version": "159",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/159/SurucuTespit.exe",
+  "sha256": "6E36F160B4A98B09310CAE8A0D53F6C04D2F5D3351FD2AC8BCDD0ADA698120B5",
+  "notes": "Guncelleme sonrasi Defender bekleme — otomatik yeniden acilis"
 }
