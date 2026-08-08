@@ -1,6 +1,6 @@
 {
-  "version": "155",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/155/SurucuTespit.exe",
-  "sha256": "B8181C53C37B131BA754506C88561427A054AA0C60CC59EA56661F426A777592",
-  "notes": "• Güncelleme düzeltmesi (Türkçe klasör yolları)\n• Açılışta otomatik güncelleme bildirimi\n• Toplu kurulum kuyruğu\n• GPU sürücü iyileştirmeleri"
+  "version": "156",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/156/SurucuTespit.exe",
+  "sha256": "8B807820CB5E9A7694DE880E3EAA3E5CB9E30352518276F5C95DA70F367532A9",
+  "notes": "• Güncellemenin gerçekten kurulması düzeltildi\n• Açılışta otomatik bildirim\n• Toplu kurulum kuyruğu"
 }
