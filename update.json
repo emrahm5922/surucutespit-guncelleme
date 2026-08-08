@@ -1,6 +1,6 @@
 {
-  "version": "175",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/175/SurucuTespit.exe",
-  "sha256": "9441e921bb4746b32953765b9cec6ee7cf77b612afb86d9390a667a8104a293e",
-  "notes": "v175"
+  "version": "182",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/182/SurucuTespit.exe",
+  "sha256": "d7c694435dae2d89d60a06c5d2fa3abebb8b9df4bc4de254ab145c5f92a1bf14",
+  "notes": "v182: geri yukleme noktasi ac/kapa, HWID eslesme (micveth), WU etiket koruma"
 }
