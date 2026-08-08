@@ -1,6 +1,6 @@
 {
-  "version": "153",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/153/SurucuTespit.exe",
-  "sha256": "FA1FFA21AD14946F4C4EE2877D3BC2D5A3817694DC2599D752C6899622B156C9",
-  "notes": "Açılışta otomatik güncelleme; müşteri link girmez."
+  "version": "154",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/154/SurucuTespit.exe",
+  "sha256": "807E875BC8E012F3249E4176C944687CD531AF1D41671C6A8D8EDD0AA7E65719",
+  "notes": "• Açılışta otomatik güncelleme bildirimi\n• Toplu kurulum kuyruğu (sürücü + runtime + uygulama)\n• GPU sürücü tespiti iyileştirmeleri\n• Daha hızlı ve kararlı tarama"
 }
