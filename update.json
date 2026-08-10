@@ -1,6 +1,6 @@
 {
-  "version": "182",
-  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/182/SurucuTespit.exe",
-  "sha256": "d7c694435dae2d89d60a06c5d2fa3abebb8b9df4bc4de254ab145c5f92a1bf14",
-  "notes": "v182: geri yukleme noktasi ac/kapa, HWID eslesme (micveth), WU etiket koruma"
+  "version": "185",
+  "url": "https://github.com/emrahm5922/surucutespit-guncelleme/releases/download/185/SurucuTespit.exe",
+  "sha256": "ee176f498511d8f48975ea77e150f69069255341695d0829140a34d6756b5891",
+  "notes": "v185: SDI otomatik bulma duzeltmesi (bos iskelet yerine gercek paketli kok bulunuyor), Ayarlar sekmesi sadelestirildi, OEM marka eslesmesi, surucu surum karsilastirma duzeltmeleri"
 }
